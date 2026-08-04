@@ -1,4 +1,5 @@
 # Charles Schwab Tax Lot Extractor - Chrome Extension
+# Issue #6 Fixed "Buttons Not Found" -  Fix is limited to the Content.js file to get the Execution running again, and populate the Export File.  The below is all still pertinent. 
 
 A Chrome Extension that automates the extraction of tax lot data from Charles Schwab's positions page, built following Test-Driven Development (TDD) principles.
 
