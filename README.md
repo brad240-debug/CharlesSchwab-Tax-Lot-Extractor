@@ -4,8 +4,7 @@
 Fix is limited to the Content.js file to get the Execution running again, and populate the Export File.  The below is all still pertinent. 
 
 
-###Description:  
-A Chrome Extension that automates the extraction of tax lot data from Charles Schwab's positions page, built following Test-Driven Development (TDD) principles.
+### Description:   A Chrome Extension that automates the extraction of tax lot data from Charles Schwab's positions page, built following Test-Driven Development (TDD) principles.
 
 ## Features
 
